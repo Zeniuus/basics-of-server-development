@@ -55,7 +55,7 @@
   * multi-thread vs. event loop
   * multi-thread 사용 예시 - Spring MVC 기반 어플리케이션의 threading 전략
 * Reactive Programming (Spring Reactor 기준)
-  * publishOn vs. subscribeOn
+  * [Spring Reactor 동작 원리 & 쓰레드 관리 (`publishOn()` vs. `subscribeOn()`)](/reactive-programming/how-spring-reactor-works.md)
   * Reactive Programming에서 일반적으로 맞닥뜨리는 까다로운 상황들
 * 다양한 개발 상황과 유의사항
   * 분산 시스템 개발 시 유의사항 (외부 시스템 연동, MSA 등)
