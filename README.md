@@ -57,8 +57,11 @@
 * Reactive Programming (Spring Reactor 기준)
   * [Spring Reactor 동작 원리 & 쓰레드 관리 (`publishOn()` vs. `subscribeOn()`)](/reactive-programming/how-spring-reactor-works.md)
   * Reactive Programming에서 일반적으로 맞닥뜨리는 까다로운 상황들
+* 분산 시스템 개발
+  * [분산 시스템 개발 시 고려해야 할 사항](/distributed-system/distributed-system-concerns.md)
+  * eventual consistency의 달성
+  * 멱등성의 실제 구현 - state machine의 활용
 * 다양한 개발 상황과 유의사항
-  * 분산 시스템 개발 시 유의사항 (외부 시스템 연동, MSA 등)
   * batch job 작성 시 유의사항
   * 모바일 네이티브 클라이언트 관련 개발 시 유의사항
 * 테스팅 
