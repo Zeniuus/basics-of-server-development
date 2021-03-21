@@ -94,7 +94,7 @@
 
     이 "언젠가는 일치하는 것"이 바로 결과적 일관성, 즉 eventual consistency이다. 우리는 언젠가는 깨진 상태를 복구하여 무결성과 정합성이 유지되는 상태로 되돌아가야 한다. 주문이 들어왔으면 언젠가는 그에 맞는 배송 건이 생성되어야 한다.
 
-    어떻게 하면 eventual consistency를 달성할 수 있는지는 별도의 문서로 기록할 예정이다.
+    eventual consistency에 대한 더 자세한 내용은 [별도의 문서](/distributed-system/eventual-consistency.md)로 다룬다.
 
 ## Reference
 
