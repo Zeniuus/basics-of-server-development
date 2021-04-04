@@ -44,10 +44,8 @@
 이미 좋은 글이 있거나 내가 이전에 작성한 글이 있어서 내가 별도로 작성할 필요가 없는 문서는 링크를 대신 걸어두었다.
 
 * 일반론
-  * 무엇을 공부해야 하는가?
-  * 개발하는 코드 베이스를 아는 것이 최우선이다
+  * [어떻게 성장할 것인가?](/general/how-to-grow.md)
   * 유용한 사고방식 및 사고 전략
-  * 프로세스 바깥과 관련된 모든 것은 실패할 수 있다
 * DB
   * [lock으로 이해하는 트랜잭션 isolation level](https://suhwan.dev/2019/06/09/transaction-isolation-level-and-lock/)
   * [foreign key S lock issue](http://www.chriscalender.com/advanced-innodb-deadlock-troubleshooting-what-show-innodb-status-doesnt-tell-you-and-what-diagnostics-you-should-be-looking-at/)
