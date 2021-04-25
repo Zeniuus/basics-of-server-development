@@ -65,10 +65,7 @@
 * 테스팅 
   * TBA
 * 배포 전략
-  * 상위호환성 / 하위호환성
-  * feature flag
-  * 배포 순서 : consumer -> producer
-  * 2-step 배포
+  * [상위호환성과 하위호환성](/deployment/forward-and-backward-compatibility.md)
   * 배포할 때 데이터 휘발을 방지하기
 * 기타 유용한 개념들
   * [캐릭터 인코딩이란?](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
