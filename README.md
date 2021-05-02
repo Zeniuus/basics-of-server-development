@@ -45,6 +45,7 @@
 
 * 일반론
   * [어떻게 성장할 것인가?](/general/how-to-grow.md)
+  * [소프트웨어 설계](https://suhwan.dev/2020/04/11/backend-application-design-202004/)
   * 유용한 사고방식 및 사고 전략
 * DB
   * [lock으로 이해하는 트랜잭션 isolation level](https://suhwan.dev/2019/06/09/transaction-isolation-level-and-lock/)
