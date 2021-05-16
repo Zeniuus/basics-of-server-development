@@ -45,7 +45,7 @@
 
 * 일반론
   * [어떻게 성장할 것인가?](/general/how-to-grow.md)
-  * [코드 작성 원칙(작성 중)](/general/principles-of-writing-code.md)
+  * [코드 작성 원칙](/general/principles-of-writing-code.md)
   * [소프트웨어 설계](https://suhwan.dev/2020/04/11/backend-application-design-202004/)
   * 유용한 사고방식 및 사고 전략
 * DB
