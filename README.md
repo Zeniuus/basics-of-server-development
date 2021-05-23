@@ -22,20 +22,20 @@
   * [코드 작성 원칙](/code-and-architecture/principles-of-writing-code.md)
   * [소프트웨어 설계](https://suhwan.dev/2020/04/11/backend-application-design-202004/)
 * DB
-  * [lock으로 이해하는 트랜잭션 isolation level](https://suhwan.dev/2019/06/09/transaction-isolation-level-and-lock/)
-  * [foreign key S lock issue](http://www.chriscalender.com/advanced-innodb-deadlock-troubleshooting-what-show-innodb-status-doesnt-tell-you-and-what-diagnostics-you-should-be-looking-at/)
+  * [Lock으로 이해하는 트랜잭션 isolation level](https://suhwan.dev/2019/06/09/transaction-isolation-level-and-lock/)
+  * [Foreign key S lock issue](http://www.chriscalender.com/advanced-innodb-deadlock-troubleshooting-what-show-innodb-status-doesnt-tell-you-and-what-diagnostics-you-should-be-looking-at/)
 * 쓰레드 관리
   * multi-thread vs. event loop
   * multi-thread 사용 예시 - Spring MVC 기반 어플리케이션의 threading 전략
 * Reactive Programming (Spring Reactor 기준)
-  * [Spring Reactor 동작 원리 & 쓰레드 관리 (`publishOn()` vs. `subscribeOn()`)](/reactive-programming/how-spring-reactor-works.md)
+  * [Project Reactor 동작 원리 & 쓰레드 관리 (`publishOn()` vs. `subscribeOn()`)](/reactive-programming/how-project-reactor-works.md)
   * Reactive Programming에서 일반적으로 맞닥뜨리는 까다로운 상황들
 * 분산 시스템 개발
   * [분산 시스템 개발 시 고려해야 할 사항](/distributed-system/distributed-system-concerns.md)
-  * [eventual consistency의 달성](/distributed-system/eventual-consistency.md)
+  * [Eventual consistency의 달성](/distributed-system/eventual-consistency.md)
   * 멱등성의 실제 구현 - state machine의 활용
 * 다양한 개발 상황과 유의사항
-  * [batch job 작성 시 유의사항](/situations-and-patterns/batch-job.md)
+  * [Batch job 작성 시 유의사항](/situations-and-patterns/batch-job.md)
   * 모바일 네이티브 클라이언트 관련 개발 시 유의사항
 * 테스팅 
   * TBA
