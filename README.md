@@ -23,6 +23,7 @@
   * [코드 작성 원칙](/code-and-architecture/principles-of-writing-code.md)
   * [소프트웨어 설계](https://suhwan.dev/2020/04/11/backend-application-design-202004/)
 * DB
+  * DB index
   * [Lock으로 이해하는 트랜잭션 isolation level](https://suhwan.dev/2019/06/09/transaction-isolation-level-and-lock/)
   * [Foreign key S lock issue](http://www.chriscalender.com/advanced-innodb-deadlock-troubleshooting-what-show-innodb-status-doesnt-tell-you-and-what-diagnostics-you-should-be-looking-at/)
 * 쓰레드 관리
