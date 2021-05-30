@@ -16,7 +16,7 @@
 
 * 일반론
   * [어떻게 성장할 것인가?](/general/how-to-grow.md)
-  * [서버 개발자의 역할은 무엇인가?](/general/roles-of-server-development.md)
+  * [서버 개발자의 역할은 무엇인가?](/general/roles-of-server-developer.md)
   * [기획서와 친해지기](/general/working-with-proposals.md)
   * 유용한 사고방식 및 사고 전략
 * 코드와 설계
