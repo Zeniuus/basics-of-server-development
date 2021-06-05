@@ -16,12 +16,13 @@
 
 * 일반론
   * [어떻게 성장할 것인가?](/general/how-to-grow.md)
-  * [서버 개발자의 역할은 무엇인가?](/general/roles-of-server-developer.md)
-  * [기획서와 친해지기](/general/working-with-proposals.md)
   * 유용한 사고방식 및 사고 전략
 * 코드와 설계
   * [코드 작성 원칙](/code-and-architecture/principles-of-writing-code.md)
   * [소프트웨어 설계](https://suhwan.dev/2020/04/11/backend-application-design-202004/)
+* 프로젝트
+  * [서버 개발자의 역할은 무엇인가?](/project/roles-of-server-developer.md)
+  * [기획서와 친해지기](/project/working-with-proposals.md)
 * DB
   * DB index
   * [Lock으로 이해하는 트랜잭션 isolation level](https://suhwan.dev/2019/06/09/transaction-isolation-level-and-lock/)
