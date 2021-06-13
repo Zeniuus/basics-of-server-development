@@ -39,7 +39,7 @@
   * 멱등성의 실제 구현 - state machine의 활용
 * 다양한 개발 상황과 유의사항
   * [Batch job 작성 시 유의사항](/situations-and-patterns/batch-job.md)
-  * 모바일 네이티브 클라이언트 관련 개발 시 유의사항
+  * [네이티브 클라이언트 개발 시 서버의 유의사항](/situations-and-patterns/native-client.md)
 * 테스팅 
   * TBA
 * 배포 전략
