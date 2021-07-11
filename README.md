@@ -24,6 +24,7 @@
 * 프로젝트
   * [서버 개발자의 역할은 무엇인가?](/project/roles-of-server-developer.md)
   * [기획서와 친해지기](/project/working-with-proposals.md)
+  * [출시 계획 고려하기](/project/release-plan.md)
 * DB
   * DB index
   * [Lock으로 이해하는 트랜잭션 isolation level](https://suhwan.dev/2019/06/09/transaction-isolation-level-and-lock/)
