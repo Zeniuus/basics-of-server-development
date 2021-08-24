@@ -40,6 +40,7 @@
   * [Eventual consistency의 달성](/distributed-system/eventual-consistency.md)
   * 멱등성의 실제 구현 - state machine의 활용
 * 다양한 개발 상황과 유의사항
+  * [서버 개발의 일반적인 어플리케이션 패턴](/situations-and-patterns/server-application-patterns.md)
   * [Batch job 작성 시 유의사항](/situations-and-patterns/batch-job.md)
   * [네이티브 클라이언트 개발 시 서버의 유의사항](/situations-and-patterns/native-client.md)
 * 테스팅 
