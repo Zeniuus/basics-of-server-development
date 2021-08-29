@@ -18,6 +18,7 @@
   * [어떻게 성장할 것인가?](/general/how-to-grow.md)
   * [개발 시 유용한 개념과 사고 전략](/general/useful-thinking-strategies.md)
   * [유용한 개발 습관](/general/useful-habits.md)
+  * [데이터의 중요성과 위험성](/general/be-careful-with-data.md)
 * 코드와 설계
   * [코드 작성 원칙](/code-and-architecture/principles-of-writing-code.md)
   * [소프트웨어 설계](https://suhwan.dev/2020/04/11/backend-application-design-202004/)
