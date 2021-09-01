@@ -18,7 +18,6 @@
   * [어떻게 성장할 것인가?](/general/how-to-grow.md)
   * [개발 시 유용한 개념과 사고 전략](/general/useful-thinking-strategies.md)
   * [유용한 개발 습관](/general/useful-habits.md)
-  * [데이터의 중요성과 위험성](/general/be-careful-with-data.md)
 * 코드와 설계
   * [코드 작성 원칙](/code-and-architecture/principles-of-writing-code.md)
   * [소프트웨어 설계](https://suhwan.dev/2020/04/11/backend-application-design-202004/)
@@ -26,7 +25,8 @@
   * [서버 개발자의 역할은 무엇인가?](/project/roles-of-server-developer.md)
   * [기획서와 친해지기](/project/working-with-proposals.md)
   * [출시 계획 고려하기](/project/release-plan.md)
-* DB
+* 데이터와 DB
+  * [데이터의 중요성과 위험성](/general/be-careful-with-data.md)
   * DB index
   * [Lock으로 이해하는 트랜잭션 isolation level](https://suhwan.dev/2019/06/09/transaction-isolation-level-and-lock/)
   * [Foreign key S lock issue](http://www.chriscalender.com/advanced-innodb-deadlock-troubleshooting-what-show-innodb-status-doesnt-tell-you-and-what-diagnostics-you-should-be-looking-at/)
