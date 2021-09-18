@@ -18,6 +18,7 @@
   * [어떻게 성장할 것인가?](/general/how-to-grow.md)
   * [개발 시 유용한 개념과 사고 전략](/general/useful-thinking-strategies.md)
   * [유용한 개발 습관](/general/useful-habits.md)
+  * 커뮤니케이션 잘하기
 * 코드와 설계
   * [코드 작성 원칙](/code-and-architecture/principles-of-writing-code.md)
   * [소프트웨어 설계](https://suhwan.dev/2020/04/11/backend-application-design-202004/)
@@ -30,6 +31,7 @@
   * DB index
   * [Lock으로 이해하는 트랜잭션 isolation level](https://suhwan.dev/2019/06/09/transaction-isolation-level-and-lock/)
   * [Foreign key S lock issue](http://www.chriscalender.com/advanced-innodb-deadlock-troubleshooting-what-show-innodb-status-doesnt-tell-you-and-what-diagnostics-you-should-be-looking-at/)
+  * 데이터베이스 리팩토링
 * 쓰레드 관리
   * multi-thread vs. event loop
   * multi-thread 사용 예시 - Spring MVC 기반 어플리케이션의 threading 전략
@@ -45,7 +47,8 @@
   * [Batch job 작성 시 유의사항](/situations-and-patterns/batch-job.md)
   * [네이티브 클라이언트 개발 시 서버의 유의사항](/situations-and-patterns/native-client.md)
 * 테스팅 
-  * TBA
+  * 테스트가 필요한 이유
+  * 테스트의 분류
 * 배포 전략
   * [상위호환성과 하위호환성](/deployment/forward-and-backward-compatibility.md)
   * 배포할 때 데이터 휘발을 방지하기
